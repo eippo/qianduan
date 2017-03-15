@@ -1,0 +1,76 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .babelrc
+#	new file:   .editorconfig
+#	new file:   .eslintignore
+#	new file:   .eslintrc.js
+#	new file:   .gitignore
+#	new file:   .postcssrc.js
+#	new file:   README.md
+#	new file:   assets/components.png
+#	new file:   assets/loading.png
+#	new file:   assets/qr.png
+#	new file:   assets/vux.png
+#	new file:   build/build.js
+#	new file:   build/check-versions.js
+#	new file:   build/dev-client.js
+#	new file:   build/dev-server.js
+#	new file:   build/utils.js
+#	new file:   build/vue-loader.conf.js
+#	new file:   build/webpack.base.conf.js
+#	new file:   build/webpack.dev.conf.js
+#	new file:   build/webpack.prod.conf.js
+#	new file:   config/dev.env.js
+#	new file:   config/index.js
+#	new file:   config/prod.env.js
+#	new file:   index.html
+#	new file:   package.json
+#	new file:   src/App.vue
+#	new file:   src/api/index.axios.js
+#	new file:   src/api/index.bak.js
+#	new file:   src/api/index.js
+#	new file:   src/assets/loading.png
+#	new file:   src/assets/logo.png
+#	new file:   src/components/Hello.vue
+#	new file:   src/components/HelloFromVux.vue
+#	new file:   src/components/footer/Footer.vue
+#	new file:   src/components/header/Header.vue
+#	new file:   src/components/loading/loading.vue
+#	new file:   src/components/searchRes/searchRes.vue
+#	new file:   src/components/srch/srch.vue
+#	new file:   src/components/srch/test.vue
+#	new file:   src/components/swiper/index.html
+#	new file:   src/components/swiper/swiper.vue
+#	new file:   src/main.js
+#	new file:   src/router/index.js
+#	new file:   src/store/index.js
+#	new file:   src/store/modules/account.js
+#	new file:   src/store/modules/auth.js
+#	new file:   src/store/modules/shop.js
+#	new file:   src/store/modules/takeout.js
+#	new file:   src/store/mutation-types.js
+#	new file:   src/utils/api.js
+#	new file:   static/.gitkeep
+#	new file:   static/image/actionbar_search_icon.png
+#	new file:   static/image/actionbar_search_icon1.jpg
+#	new file:   static/image/ic_label_today.jpg
+#	new file:   static/image/ic_nav_add_actived.png
+#	new file:   static/image/ic_nav_add_normal.png
+#	new file:   static/image/ic_nav_discover_actived.png
+#	new file:   static/image/ic_nav_discover_normal.png
+#	new file:   static/image/ic_nav_my_normal.png
+#	new file:   static/image/ic_nav_my_pressed.png
+#	new file:   static/image/ic_nav_news_actived.png
+#	new file:   static/image/ic_nav_news_normal.png
+#	new file:   static/image/ic_nav_tweet_actived.png
+#	new file:   static/image/ic_nav_tweet_normal.png
+#	new file:   static/image/icon_explore_finduser.png
+#	new file:   static/image/widget_today_icon.png
+#
+
